@@ -31,14 +31,17 @@ This is fully responsive Landing page. This is basically a clothing website.
 
 
 # Screenshots
-![Screenshot (206)](https://github.com/Sibuchanda/Responsive_Landingpage/assets/92131251/1c1fedaf-5cd4-4a3c-a61c-79cf65abdbaa)
-![Screenshot (207)](https://github.com/Sibuchanda/Responsive_Landingpage/assets/92131251/2d5fdfb7-8262-4318-b0cc-cc8134d11f91)
-![Screenshot (208)](https://github.com/Sibuchanda/Responsive_Landingpage/assets/92131251/ce33c8b4-0d29-4a3d-aa36-d316c08b80df)
-![Screenshot (209)](https://github.com/Sibuchanda/Responsive_Landingpage/assets/92131251/de823094-b2d4-42ff-80fb-fced5a7d742c)
-![Screenshot (210)](https://github.com/Sibuchanda/Responsive_Landingpage/assets/92131251/9d9d8f17-9df3-4e7b-97fb-05863768efc0)
-![Screenshot (211)](https://github.com/Sibuchanda/Responsive_Landingpage/assets/92131251/7fb136f0-65d5-4184-9cd0-6f22d748e533)
-![Screenshot (213)](https://github.com/Sibuchanda/Responsive_Landingpage/assets/92131251/16f9cbfb-120b-4550-9700-6d7908d2a32a)
-![Screenshot (214)](https://github.com/Sibuchanda/Responsive_Landingpage/assets/92131251/4f9864f5-2717-47b3-af94-55beacd62cc7)
+![Screenshot (206)](https://github.com/Sibuchanda/Responsive_Landingpage/assets/92131251/05ba321d-f79f-49da-afd2-d729388b0773)
+
+![Screenshot (208)](https://github.com/Sibuchanda/Responsive_Landingpage/assets/92131251/ce1d00ff-0e15-4cf7-85bb-4217be6a3fb7)
+![Screenshot (209)](https://github.com/Sibuchanda/Responsive_Landingpage/assets/92131251/c5506383-a652-49b5-ae5d-01d72eca8408)
+![Screenshot (210)](https://github.com/Sibuchanda/Responsive_Landingpage/assets/92131251/f1a44efa-2084-4c6c-baed-fe4b46bdc6cc)
+![Screenshot (211)](https://github.com/Sibuchanda/Responsive_Landingpage/assets/92131251/db2ff918-85e0-4ea6-a095-65929bb685b4)
+![Screenshot (212)](https://github.com/Sibuchanda/Responsive_Landingpage/assets/92131251/82bbac63-5a8c-4fd7-9a0e-633a9aa979ef)
+![Screenshot (213)](https://github.com/Sibuchanda/Responsive_Landingpage/assets/92131251/5dc9391e-2b02-42e4-a031-5d42a8cbb03d)
+
+![Screenshot (214)](https://github.com/Sibuchanda/Responsive_Landingpage/assets/92131251/e16483fd-265b-4e2e-8097-d8afec851008)
+
 
 
 
