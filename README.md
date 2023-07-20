@@ -7,9 +7,12 @@ This is fully responsive Landing page. This is basically a clothing website.
 
 # Technology:-
 
-##### HTML
-##### CSS
-##### JAVASCRIPT
+##### 
+ * HTML
+##### 
+* CSS
+#####
+ * JAVASCRIPT
 
 # Resourcs Reference
 
