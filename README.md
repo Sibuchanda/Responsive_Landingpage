@@ -73,5 +73,5 @@ I'm a front end developer...
 
 ## Feedback
 
-If you have any feedback, please reach out to me at sibuchanda457@.com
+If you have any feedback, please reach out to me at sibuchanda457@gmail.com
 
